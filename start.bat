@@ -1,0 +1,3 @@
+@echo off
+echo Starting CyberVault Password Playground...
+start "" "%~dp0index.html"

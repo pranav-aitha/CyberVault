@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Editor
+.env
+.env.local
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+scratch/
+tmp/
+*.tmp
